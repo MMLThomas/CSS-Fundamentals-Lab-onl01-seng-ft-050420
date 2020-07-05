@@ -33,14 +33,11 @@ figcaption {
   font-size: 100%;
 }
 
-#details {
-  display: block;
-  align-items: center;
-}
 
 #details div {
+  display: block;
   float: left;
-  /*padding: 100px;*/
+  padding: 100px;
 }
 
 footer {
