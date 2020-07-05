@@ -26,13 +26,13 @@ nav a {
   background-color: grey;
 }
 
-footer {
-  background-color: red;
-}
-
 figcaption {
   text-align: center;
   font-size: 100%;
+}
+
+footer {
+  background-color: red;
 }
 
 
