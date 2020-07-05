@@ -32,14 +32,14 @@ figcaption {
 }
 
 footer {
-  width: 100%;
+  
   
 }
 
 
 #details {
   display: block;
- 
+  width: 100%;
   float: left;
 }
 
