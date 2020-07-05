@@ -33,15 +33,14 @@ figcaption {
 
 
 #details {
-  display: block;
-  background-color: red;
+  display: block
 }
 
 #details div {
   float: left;
   text-align: center;
   width: 25%;
-  
+  background-color: red;
 }
 
 
