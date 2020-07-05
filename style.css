@@ -33,7 +33,7 @@ figcaption {
 
 footer {
   display: block;
-  background-color: red;
+  
 }
 
 
@@ -42,6 +42,7 @@ footer {
 }
 
 #details div {
+  background-color: red;
   display: block;
   float: left;
 }
