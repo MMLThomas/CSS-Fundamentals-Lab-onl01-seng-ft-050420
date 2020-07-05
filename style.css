@@ -40,7 +40,9 @@ figcaption {
   display: block;
 }
 
-#details 
+#details div {
+  float: left;
+}
 
 
 
