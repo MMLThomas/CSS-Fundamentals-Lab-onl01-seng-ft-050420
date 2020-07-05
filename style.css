@@ -32,7 +32,7 @@ figcaption {
 }
 
 footer {
-  
+  float: left;
   
 }
 
@@ -40,7 +40,7 @@ footer {
 #details {
   display: block;
   width: 100%;
-  float: left;
+  
 }
 
 
