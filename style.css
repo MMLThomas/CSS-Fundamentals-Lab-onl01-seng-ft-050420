@@ -41,6 +41,7 @@ footer {
 }
 
 #details div {
+  display: block;
   float: left;
 }
 
