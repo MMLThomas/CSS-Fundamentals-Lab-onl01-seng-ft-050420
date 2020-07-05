@@ -37,16 +37,13 @@ footer {
 }
 
 
-#details {
+#details div {
   display: block;
   margin-left: auto;
   margin-right: auto;
   float: left;
 }
 
-#details div {
-  
-}
 
 
 
