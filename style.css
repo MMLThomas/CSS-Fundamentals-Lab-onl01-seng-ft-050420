@@ -31,16 +31,17 @@ figcaption {
   font-size: 100%;
 }
 
-#details dev {
-  float: left;
-}
-
 
 #details {
   display: block;
   width: 100%;
   
 }
+
+#details dev {
+  float: left;
+}
+
 
 
 
